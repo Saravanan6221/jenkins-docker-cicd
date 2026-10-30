@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-docker-cicd",
+  "version": "1.0.0",
+  "description": "Sample application for Jenkins CI/CD deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js"
+  }
+}
