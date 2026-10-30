@@ -29,10 +29,10 @@ const server = http.createServer((req, res) => {
         </head>
         <body>
             <div class="box">
-                <h1>Welcome to Jenkins CI/CD Pipeline!</h1>
+                <h1>Welcome to Automated CI/CD Deployment!</h1>
                 <h2>Application deployed successfully on AWS EC2</h2>
                 <p>Technologies: GitHub, Jenkins, Docker and AWS</p>
-                <p>Version: 1.0</p>
+                <p>Version: 2.0</p>
             </div>
         </body>
         </html>
